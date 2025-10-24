@@ -57,13 +57,13 @@ GEMINI_API_KEY=your_google_gemini_api_key_here
 2. Run the script using:
 
    ```bash
-   python rfp_extractor_rag.py
+   python RFP_dataExtract.py /(FileName)
    ```
 
    Or specify input files explicitly:
 
    ```bash
-   python rfp_extractor_rag.py --input "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf" "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html"
+   python RFP_dataExtract.py --input "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf" "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html"
    ```
 
 3. The extracted structured data will be saved as:
