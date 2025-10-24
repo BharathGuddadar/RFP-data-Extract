@@ -1,0 +1,73 @@
+{
+    "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf": {
+        "Bid_Number": "JA-207652",
+        "Title": "Student and Staff Computing Devices",
+        "Due_Date": "Not Specified",
+        "Bid_Submission_Type": "Electronic or Manual PDF Submission",
+        "Term_of_Bid": "Multi-year, quantities will be spread over the life of the contract.",
+        "Pre_Bid_Meeting": "A pre-bid call was held.",
+        "Installation": "Required. For Windows devices, autopilot is required. For Chromebooks, enrollment in Google Management is required. White glove services including asset decaling, asset reporting, etching, and delivery are also required.",
+        "Bid_Bond_Requirement": "Not Specified",
+        "Delivery_Date": "Dallas ISD will start requesting quotes for different projects from awarded vendors starting in September of 2024.",
+        "Payment_Terms": "Not Specified",
+        "Any_Additional_Documentation_Required": [
+            "Signed copy of Addendum No. 1",
+            "Form 1295 - Certificate of Interested Parties",
+            "Attachments for additional warranty information and pricing",
+            "Attachments for additional deployment service pricing",
+            "Attachments for tiered discount percentages"
+        ],
+        "MFG_for_Registration": "Not Specified",
+        "Contract_or_Cooperative_to_use": "Not Specified",
+        "Model_no": "To be proposed by vendor",
+        "Part_no": "To be proposed by vendor",
+        "Product": "Student and Staff Computing Devices (including Chromebooks, Windows Laptops, AIO computers, and stand-alone monitors)",
+        "contact_info": "Not Specified",
+        "company_name": "Dallas ISD",
+        "Bid_Summary": "Dallas ISD is seeking proposals for student and staff computing devices through RFP JA-207652. This is a multi-year contract with purchases funded primarily by bond money. Deliveries are expected to begin in September 2024. The scope includes the devices and mandatory white glove services such as asset decaling, etching on laptops, and deployment. Specific software configurations like Windows Autopilot and Google Management enrollment are required. All warranties must be provided by the Original Equipment Manufacturer (OEM).",
+        "Product_Specification": [
+            "Display Monitor: USB 3.1 is a minimum requirement; higher specifications like 3.2 are permissible.",
+            "Laptops: Require both etching and asset tagging.",
+            "AIO Desktops: Must include a webcam.",
+            "Laptop Chargers (Chrome): 65w chargers are a minimum requirement.",
+            "Warranty: Minimum one-year for student Chromebooks and three years for student and staff Windows laptops. All warranties must be from the OEM. Accidental Damage Protection is not required.",
+            "Services: All deliveries must incorporate white glove services, which include asset decaling, asset reporting, etching, and delivery to varied locations.",
+            "Software: For Windows devices, autopilot is required. For Chromebooks, enrollment in Google Management is required."
+        ]
+    },
+    "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html": {
+        "Bid_Number": "JA-207652",
+        "Title": "Student and Staff Computing Devices SOURCING #168884",
+        "Due_Date": "07/09/2024 03:00 PM EDT",
+        "Bid_Submission_Type": "RFP - Request for Proposal (Informal)",
+        "Term_of_Bid": "Five years",
+        "Pre_Bid_Meeting": "06/10/2024 03:00 PM EDT",
+        "Installation": "Required. All deliveries and deployments must incorporate white glove services, including asset decaling, asset reporting, etching, and delivery to varied locations. For Windows devices, autopilot is required. For Chromebooks, enrollment in Google Management is required.",
+        "Bid_Bond_Requirement": "Not Specified",
+        "Delivery_Date": "Deliveries will start in September 2024. Awarded vendors will need to coordinate a schedule of deliveries with the Dallas ISD ED TECH department for different projects.",
+        "Payment_Terms": "Not Specified",
+        "Any_Additional_Documentation_Required": [
+            "Signed copy of Addendum No. 1",
+            "Form 1295 - Certificate of Interested Parties",
+            "Attachments for additional warranty information and pricing",
+            "Attachments for additional deployment service pricing options"
+        ],
+        "MFG_for_Registration": "All warranties must be made by the Original Equipment Manufacturer (OEM).",
+        "Contract_or_Cooperative_to_use": "Not Specified",
+        "Model_no": "To be proposed by vendor",
+        "Part_no": "To be proposed by vendor",
+        "Product": "Student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+        "contact_info": "Procurement Services, 972-925-3700, ProcurementCS@dallasisd.org",
+        "company_name": "Dallas Independent School District",
+        "Bid_Summary": "The Dallas Independent School District (ISD) is issuing this Request for Proposal (RFP) for student and staff computing devices, which includes laptops, desktops, tablets, and display monitors. The contract is estimated to be for five years. Vendors may submit proposals for one or more categories of devices. Purchases may also include various accessories like cases, mice, and keyboards. Required services include white glove deployment, asset decaling, reporting, and etching. The District reserves the right to award contracts to single or multiple vendors.",
+        "Product_Specification": [
+            "Devices Requested: Student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+            "Display Monitor Port: USB 3.1 is a minimum requirement.",
+            "Warranty: A one-year minimum OEM warranty for student Chromebooks and a three-year minimum OEM warranty for student and staff Windows laptops is required. Accidental Damage Protection is not required.",
+            "Etching: Required for laptops only.",
+            "Software/Setup: Windows devices require autopilot. Chromebooks require enrollment in Google Management.",
+            "AIO Desktops: Must include a webcam.",
+            "Laptop Chargers: A minimum of 65w chargers are required for Chromebooks."
+        ]
+    }
+}
