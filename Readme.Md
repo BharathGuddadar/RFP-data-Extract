@@ -106,7 +106,6 @@ GEMINI_API_KEY=your_google_gemini_api_key_here
 | File               | Description                       |
 | ------------------ | --------------------------------- |
 | `rfp_data.json`    | Final structured output           |
-| `chroma_db/`       | Persistent local ChromaDB storage |
 | `.env`             | Contains Gemini API key           |
 | `requirements.txt` | Dependencies list                 |
 
