@@ -1,9 +1,5 @@
-Sure thing, Bharath ✅ — here’s a clean, professional **`README.md`** written in the same concise format and matching your updated script (`rfp_extractor_rag.py`):
 
----
-
-````markdown
-# 🧠 RFP Data Extraction Program (`rfp_extractor_rag.py`)
+#  RFP Data Extraction Program (`rfp_extractor_rag.py`)
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system to extract **structured data** from **RFP (Request for Proposal)** documents — supporting both **PDF** and **HTML** formats.
 
@@ -11,7 +7,7 @@ It combines **semantic retrieval (ChromaDB)** with **LLM-based structured extrac
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Extracts data fields like Bid Number, Title, Due Date, Term, Warranty, and Delivery Dates.  
 - Uses **Gemini 2.5-Pro** for JSON-structured extraction aligned with a **Pydantic schema**.  
@@ -44,7 +40,7 @@ python-dotenv
 
 ---
 
-## ⚙️ Environment Setup
+##  Environment Setup
 
 Create a `.env` file in your project root directory with your Gemini API key:
 
@@ -54,7 +50,7 @@ GEMINI_API_KEY=your_google_gemini_api_key_here
 
 ---
 
-## 🏃‍♂️ How to Run
+##  How to Run
 
 1. Place your **RFP files** (`.pdf` or `.html`) in the project directory.
 
@@ -78,7 +74,7 @@ GEMINI_API_KEY=your_google_gemini_api_key_here
 
 ---
 
-## 📂 Output Example
+##  Output Example
 
 ```json
 {
@@ -93,7 +89,7 @@ GEMINI_API_KEY=your_google_gemini_api_key_here
 
 ---
 
-## 🧠 Models and Tools Used
+##  Models and Tools Used
 
 | Component             | Purpose                       | Model / Library        |
 | --------------------- | ----------------------------- | ---------------------- |
@@ -105,7 +101,7 @@ GEMINI_API_KEY=your_google_gemini_api_key_here
 
 ---
 
-## 📦 Output Files
+##  Output Files
 
 | File               | Description                       |
 | ------------------ | --------------------------------- |
@@ -116,12 +112,8 @@ GEMINI_API_KEY=your_google_gemini_api_key_here
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Bharath G P**
 AI/ML Engineer | RAG & LLM Applications | Cloud & Data Extraction Systems
-
-```
-
----
 
