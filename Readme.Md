@@ -1,5 +1,5 @@
 
-#  RFP Data Extraction Program (`rfp_extractor_rag.py`)
+#  RFP Data Extraction Program (`rfp_data_extractor.py`)
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system to extract **structured data** from **RFP (Request for Proposal)** documents — supporting both **PDF** and **HTML** formats.
 

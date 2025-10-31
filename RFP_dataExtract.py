@@ -219,7 +219,7 @@ if __name__ == "__main__":
 
     document_files = [
         "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
-        "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html"
+        "StudentAndStaff.html"
     ]
 
     collection = initialize_chroma_collection()
